@@ -1,1 +1,1 @@
-# Netflix-sqlite-etl
+# netflix-sqlite-etl
